@@ -1,0 +1,50 @@
+[
+    {
+        "id": "4",
+        "name": "Brioche sucrée avec chocolat",
+        "image": "1-brioche-pepites-chocolat-recette-patisserie-empreinte-sucree.jpg",
+        "quantity": 2,
+        "quantityWon": 8,
+        "choice": true
+    },
+    {
+        "id": "3",
+        "name": "Cake Framboise chocolat",
+        "image": "Gateau-chocolat-framboise-scaled.jpg",
+        "quantity": 6,
+        "quantityWon": 4,
+        "choice": true
+    },
+    {
+        "id": "5",
+        "name": "Cake glacé fondant au chocolat",
+        "image": "cake-glace.jpg",
+        "quantity": 0,
+        "quantityWon": 4,
+        "choice": true
+    },
+    {
+        "id": "2",
+        "name": "Cake tout Chocolat",
+        "image": "cake-tout-chocolat.jpg",
+        "quantity": 0,
+        "quantityWon": 4,
+        "choice": true
+    },
+    {
+        "id": "1",
+        "name": "Fondant supreme",
+        "image": "supreme-fondant-aux-fruits-rouges.jpg",
+        "quantity": 7,
+        "quantityWon": 5,
+        "choice": true
+    },
+    {
+        "id": "6",
+        "name": "Eclairs au chocolat",
+        "image": "eclair-chocolat.jpeg",
+        "quantity": 5,
+        "quantityWon": 10,
+        "choice": true
+    }
+]
